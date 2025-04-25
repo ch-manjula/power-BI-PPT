@@ -35,9 +35,7 @@ Slicers/Filters: Date, Region, Product Category, Sales Rep
 
 Interactive Tooltips: Hover-based detail views
 
-Navigation Buttons: Multi-page navigation using bookmarks
 
-Consistent Theme: Unified color palette, font, and layout
 
 📅 Steps to Reproduce / Use
 Open the Dashboard.pbix file in Power BI Desktop
@@ -51,6 +49,7 @@ Navigate through tabs or buttons for detailed views
 Export dashboard via File → Export → PDF
 
 View Summary_Presentation.pptx for a high-level report
+
 
 📈 KPIs Tracked
 Total Sales
